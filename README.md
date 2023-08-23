@@ -11,7 +11,7 @@ Connect to instance with putty
 
 ------------------------------- Commands ---------------------------------------------------------------------------------
 
-sudo apt update
+
 
 sudo apt install apache2
 
